@@ -5,4 +5,4 @@ Feel free to message me via the **[Discussions]** tab though.
 
 
 
-[Discussions]: 
+[Discussions]: https://github.com/ALewdDev/ALewdDev/discussions
